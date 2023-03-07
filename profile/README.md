@@ -2,6 +2,7 @@
 Tripfolk is an application that connects tourists with local residents for mutual benefits. We provide IoT device for tourists who chose online Tour Guide to ensure their safety
 
 ### Technology Stack
+[![Tech Stacks](https://skillicons.dev/icons?i=gcp,git,nextjs,ts,firebase,figma,vscode)](https://skillicons.dev)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
