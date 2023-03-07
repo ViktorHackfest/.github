@@ -5,7 +5,7 @@ Tripfolk is an application that connects tourists with local residents for mutua
 [![Tech Stacks](https://skillicons.dev/icons?i=gcp,firebase,git,nextjs,django,ts,figma,vscode,postgres,tailwind,postman,html,css,js,discord)](https://skillicons.dev)
 
 ### Website
-<a href="https://ristek.link/wisata-nusantara"><button>TripFolk Link</button></a><br/>
+<a href="https://tripfolk.vercel.app"><button>TripFolk Link</button></a><br/>
 ![Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feugeniusms1212%2Fhit-counter)
 <br/>
 
